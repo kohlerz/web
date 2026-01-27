@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kohlerz.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'KohlerZ'
 theme = 'beautifulhugo'
+
+[Params]
+  mainSections = ["posts"]
+  subtitle = "Welcome to my portfolio"
