@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kohler Z</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Kohler Z</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIRST Robotics</title>
+      <link>http://localhost:1313/posts/first-robotics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-robotics/</guid>
+      <description>&lt;h3 id=&#34;team-171---cheese-curd-herd&#34;&gt;Team 171 - Cheese Curd Herd&lt;/h3&gt;&#xA;&lt;p&gt;My first official robotics experience was with my local FIRST Robotics team, FRC Team 171. It was a joint effort between Platteville High School students and UW-Platteville students who were our mentors. This is where I got my first experience with CAD, 3D printing, machining, programming, and electronics. Once I got the robotics bug, I was hooked and never went back. The team was very close-knit and I was able to make some great friends and memories.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
 baseURL = 'https://kohlerz.com/'
 languageCode = 'en-us'
-title = 'KohlerZ'
+title = 'Kohler Z'
 theme = 'beautifulhugo'
 
 [Params]
   mainSections = ["posts"]
-  subtitle = "Welcome to my portfolio"
+  subtitle = "Professional tinkerer"

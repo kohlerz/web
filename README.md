@@ -1,1 +1,1 @@
-My new website
+My new website! Right now it's mostly a portfolio of some of the tinkering I've done but I've got some cool plans for it in the future.
