@@ -9,10 +9,10 @@ During my time as a student engineering Co-Op at Yaskawa, my main project was th
 
 Given the cabinet I would be designing around, I started with that and worked my way to the top of the stand. I was directed to use as much of the old materials as possible to save money and time. I designed the plate the motors and torque meter would ride on, mounting solution for all of the electronics, as well as a new safety guard and safety interlock mechanism.
 
-Once my team and I had reviewed the design, I made manufacturing drawing with GD&T callouts and correct tolerances. I reached out to local manufacturing shops to get estimates on the cost of the materials and the machining of the parts. After some back and forth, we settled on a shop that could provide us with the materials we needed and the machining we required.
+Once my team and I had reviewed the design, I made manufacturing drawings with GD&T callouts and correct tolerances. I reached out to local manufacturing shops to get estimates on the cost of the materials and the machining of the parts. After some back and forth, we settled on a shop that could provide us with the materials we needed and the machining we required.
 
 ![Motor Mounts](/Yaskawa/IMG_1427.jpeg)
 
-In tandem I worked off the example of the old dynamometer to procure the necessary electronics, wiring, and auxillary devices to make the dynamometer run. I switched the 
+As parts came in I started to assemble the stand. I cut, sanded, and finished the countertop to match the rest of the servo lab.
 
 ![Full Dyne](/Yaskawa/IMG_1476.jpeg)
