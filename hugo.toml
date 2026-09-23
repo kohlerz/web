@@ -5,4 +5,4 @@ theme = 'beautifulhugo'
 
 [Params]
   mainSections = ["posts"]
-  subtitle = "Professional tinkerer"
+  subtitle = "Professional Tinkerer"

@@ -1,0 +1,9 @@
+/* Site overrides for the Beautiful Hugo theme. */
+
+/* Content under content/posts/ renders with a "posts-heading" wrapper that the
+   theme never styles, so the title sits flush left while hr.small keeps its
+   centered auto margins. Left-align the divider so it lines up with the title. */
+.intro-header .posts-heading hr.small {
+  margin-left: 0;
+  margin-right: 0;
+}
